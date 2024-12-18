@@ -70,7 +70,7 @@ bench new-site kgglcrm.com
 
 ## Install ERPNEXT 
 
-bench get-app erpnext --branch version-15 https://github.com/frappe/erpnext.git
+bench get-app erpnext --branch version-15 https://github.com/johnpauljayakumar08/frappe
 
 bench --site kgglcrm.com install-app erpnext
 
